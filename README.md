@@ -13,11 +13,11 @@
 > 希望大家在学习之余可以关注一下我的原创公众号：胡嘚瑟同学。微信搜索即可找到
 
 
-* [java入门书籍] (#java入门书籍)
+* [java入门书籍](#java入门书籍)
 
 
 
-# java入门基础书籍
+## java入门基础书籍
 
 [Head First Java 中文高清版](https://pan.baidu.com/s/1oCXf4t5CY43yPejmTCF4lg)    提取码： 4co6
 
